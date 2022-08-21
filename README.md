@@ -1,21 +1,25 @@
 <h1 align="center">Hi 👋, I'm Micheal Donald</h1>
 <h3 align="center">Friendly neighborhood DevOps Guy who ♥ automating stuff</h3>
 
-- 💬 Ask me about **DevOps Tools and Practices**
+🏢 I’m currently working as a **Jn. DevOps Engineer**
 
-- 📫 How to reach me **michealmonyenye@gmail.com**
+🌱 I’m currently working on **Setting up a CI/CD using Pipeline over AWS**
 
-- 📄 Know about my experiences [https://registry.jsonresume.org/lanod](https://registry.jsonresume.org/lanod)
+💬 Ask me about **DevOps Tools and Practices**
 
-- ⚡ Fun fact **I believe DevOps embodies the Pareto Distribution**
+📫 How to reach me **michealmonyenye@gmail.com**
+
+📄 Know about my experiences [Resume](https://registry.jsonresume.org/lanod)
+
+ Fun fact **I believe DevOps embodies the Pareto Distribution**
 
 ##### 👨‍💻 Some of the projects I have worked recently
 
 
 ##### 🧾 Certifications I have Accomplished
-- 🎖 AWS Solutions Architect -[Credly]
+- 🎖 AWS Solutions Architect -[Credly](https://www.credly.com/badges/aa77ed3d-b772-49f0-9bb0-638c4246dba3)
 
-- 🎖 AWS Developer - [Credly]
+- 🎖 AWS Developer - [Credly](https://www.credly.com/badges/825242dc-9315-4325-8372-893d112a1823)
 
 
 <h3 align="left">Connect with me:</h3>
