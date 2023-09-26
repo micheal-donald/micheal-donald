@@ -21,7 +21,7 @@
 
 - 🎖 AWS Developer - [Credly](https://www.credly.com/badges/825242dc-9315-4325-8372-893d112a1823)
 
-- 🎖 HashiCorp Certified: Terraform Associate [Credly]([https://www.credly.com/badges/825242dc-9315-4325-8372-893d112a1823](https://www.credly.com/badges/eab945db-a995-43f7-b21b-77c32901170a/public_url)
+- 🎖 HashiCorp Certified: Terraform Associate  [Credly](https://www.credly.com/badges/eab945db-a995-43f7-b21b-77c32901170a/public_url)
 
 
 <h3 align="left">Connect with me:</h3>
