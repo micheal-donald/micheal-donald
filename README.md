@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Micheal Donald</h1>
 <h3 align="center">Friendly neighborhood DevOps Guy who ♥ automating stuff</h3>
 
-🏢 I’m currently working as a **Jn. DevOps Engineer**
+🏢 I’m currently working as a **DevOps Engineer**
 
 🌱 I’m currently working on **Setting up a CI/CD using Pipeline over AWS**
 
@@ -13,13 +13,15 @@
 
  Fun fact **I believe DevOps embodies the Pareto Distribution**
 
-##### 👨‍💻 Some of the projects I have worked recently
+##### 👨‍💻 Some of the projects I have worked on recently
 
 
 ##### 🧾 Certifications I have Accomplished
 - 🎖 AWS Solutions Architect -[Credly](https://www.credly.com/badges/aa77ed3d-b772-49f0-9bb0-638c4246dba3)
 
 - 🎖 AWS Developer - [Credly](https://www.credly.com/badges/825242dc-9315-4325-8372-893d112a1823)
+
+- 🎖 HashiCorp Certified: Terraform Associate [Credly]([https://www.credly.com/badges/825242dc-9315-4325-8372-893d112a1823](https://www.credly.com/badges/eab945db-a995-43f7-b21b-77c32901170a/public_url)
 
 
 <h3 align="left">Connect with me:</h3>
