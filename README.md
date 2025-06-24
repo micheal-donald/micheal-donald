@@ -9,7 +9,9 @@
 
 📫 How to reach me **michealmonyenye@gmail.com**
 
-📄 Know about my experiences [Resume](https://registry.jsonresume.org/lanod)
+:pager: Know about my experiences [LinkedIn](https://www.linkedin.com/in/michael-donald-monyenye/)    
+
+📄 [Resume](https://registry.jsonresume.org/lanod)
 
  Fun fact **I believe DevOps embodies the Pareto Distribution**
 
