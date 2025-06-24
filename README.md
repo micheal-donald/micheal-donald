@@ -17,6 +17,8 @@
 
 
 ##### 🧾 Certifications I have Accomplished
+- 🎖 AWS Certified DevOps Engineer – Professional -[Credly](https://www.credly.com/badges/5396b88e-bdd7-4a9c-be78-b99336b0aff8/public_url)
+  
 - 🎖 AWS Solutions Architect -[Credly](https://www.credly.com/badges/aa77ed3d-b772-49f0-9bb0-638c4246dba3)
 
 - 🎖 AWS Developer - [Credly](https://www.credly.com/badges/825242dc-9315-4325-8372-893d112a1823)
